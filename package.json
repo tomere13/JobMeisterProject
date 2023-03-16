@@ -29,14 +29,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JobMeister/Project-1.git"
+    "url": "git+https://github.com/tomere13/JobMeisterProject"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JobMeister/Project-1/issues"
+    "url": "https://github.com/tomere13/JobMeisterProject/issues"
   },
-  "homepage": "https://github.com/JobMeister/Project-1#readme",
+  "homepage": "https://github.com/tomere13/JobMeisterProject#readme",
   "description": "jobs"
 }
