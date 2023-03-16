@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "encoding": "^0.1.13",
     "firebase": "^9.15.0",
     "jquery-mockjax": "^2.6.0",
     "Jsdom": "npm:jsdom@^21.0.0",
