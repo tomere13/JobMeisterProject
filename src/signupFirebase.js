@@ -12,7 +12,7 @@ import {
   createUserWithEmailAndPassword,
   onAuthStateChanged,
 } from 'firebase/auth'
-import {} from './signup'
+// import {} from './signup'
 
 const firebaseConfig = {
   apiKey: 'AIzaSyDoC94Xlt0BHfsH_zLp8562xsKMW49mv8s',
@@ -50,6 +50,7 @@ signUpForm.addEventListener('submit', (e) => {
   const lastname = signUpForm.lastname.value
   const EmployerOrSearcher = signUpForm.EmployerOr.value
   const passwordlength = password.length
+
   console.log(passwordlength)
   if (
     firstname != '' &&
