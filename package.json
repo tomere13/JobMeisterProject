@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "core-js": "^3.29.1",
     "encoding": "^0.1.13",
     "firebase": "^9.15.0",
     "jquery-mockjax": "^2.6.0",
