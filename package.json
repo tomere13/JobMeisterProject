@@ -26,7 +26,7 @@
   },
   "scripts": {
     "test": "jest",
-    "ready": "webpack"
+    "build": "CI= webpack"
   },
   "repository": {
     "type": "git",
