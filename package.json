@@ -2,6 +2,9 @@
   "dependencies": {
     "encoding": "^0.1.13",
     "firebase": "^9.15.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
     "jquery-mockjax": "^2.6.0",
     "Jsdom": "npm:jsdom@^21.0.0",
     "json": "^11.0.0",
@@ -26,7 +29,7 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "CI= webpack"
+    "build": "CI= react-scripts build"
   },
   "repository": {
     "type": "git",
