@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "core-js": "^3.29.1",
     "encoding": "^0.1.13",
     "firebase": "^9.15.0",
     "jquery-mockjax": "^2.6.0",
     "Jsdom": "npm:jsdom@^21.0.0",
     "json": "^11.0.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "1.5.3",
     "node": "^19.3.0",
     "nodemailer": "^6.9.1",
     "scripts": "^0.1.0",
